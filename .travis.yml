@@ -8,6 +8,7 @@ rvm:
 gemfile:
   - 'gemfiles/sidekiq_4.gemfile'
   - 'gemfiles/sidekiq_5.gemfile'
+  - 'gemfiles/sidekiq_6.gemfile'
 
 deploy:
   provider: rubygems
